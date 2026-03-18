@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title:  Welcome to the Physical Intelligence Lab
+      - title:  Welcome to the Robotics Vision and Intelligence Lab
         content: 
         align: center
         background:
@@ -18,31 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      # - title: Lunch & Learn ☕️
-      #   content: 'Share your knowledge with the group and explore exciting new topics together!'
-      #   align: left
-      #   background:
-      #     image:
-      #       filename: zjui_scene.jpg
-      #       filters:
-      #         brightness: 0.7
-      #     position: center
-      #     color: '#555'
-      # - title: World-Class Semiconductor Lab
-      #   content: 'Just opened last month!'
-      #   align: right
-      #   background:
-      #     image:
-      #       filename: zjui_scene.jpg
-      #       filters:
-      #         brightness: 0.5
-      #     position: center
-      #     color: '#333'
-      #   link:
-      #     icon: graduation-cap
-      #     icon_pack: fas
-      #     text: Join Us
-      #     url: ../contact/
+
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -52,34 +28,12 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
 
-# sections:
-#   - block: markdown
-#     content:
-#       title: <font color=white> <br><br><br><br><br>**Hua Chen Research Group** </font>
-#       subtitle: ''
-#       text:  <font color=blue> 这个图片感觉可以放合影 </font>
-#       position: left
-#     design:
-#       columns: '1'
-#       background:
-#         image: 
-#           filename: zjui_scene.jpg
-#           filters:
-#             brightness: 1
-#           parallax: true # make the section hidden by scrolling the wheel
-#           position: center
-#           size: cover
-#           text_color_light: True
-#       spacing:
-#         padding: ['20px', '0', '20px', '0']
-#       css_class: fullscreen
-
   - block: hero
     content:
       title: Introduction 
       text: |
         <br>
-        Welcome to the Physical Intelligence Lab! Here, we merge the realms of robotics and machine learning to explore innovative solutions that enhance physical interaction with the world. Our research delves into intelligent systems that not only perform tasks but also learn and adapt in real-time, paving the way for advancements in automation, smart environments, and beyond.
+        xxxxx
 
     design:
       background:
