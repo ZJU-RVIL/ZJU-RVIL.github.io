@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2026/3/18
+date: 2026-03-18
 
 type: landing
 
