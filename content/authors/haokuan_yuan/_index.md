@@ -6,7 +6,7 @@ last_name: Yuan
 
 superuser: false
 
-role: Research Intern
+role: Research Assistant
 
 organizations:
   - name: Zhejiang University
