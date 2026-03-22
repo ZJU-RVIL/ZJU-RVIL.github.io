@@ -1,6 +1,6 @@
 ---
 # Display name
-title: haojie Xu
+title: Haojie Xu
 
 # Full Name (for SEO)
 first_name: Haojie
