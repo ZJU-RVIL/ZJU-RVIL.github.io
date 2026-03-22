@@ -10,7 +10,7 @@ last_name: Jin
 superuser: false
 
 # Role/position
-role: undergraduate
+role: Undergraduate student
 
 # Organizations/Affiliations
 organizations:
@@ -69,4 +69,4 @@ user_groups:
           # - Visitors
 ---
 
-I'm a master soon student at [Zhejiang University](https://www.zju.edu.cn/english/) in Hangzhou, China.
+I'm a UG student at [Zhejiang University](https://www.zju.edu.cn/english/) in Hangzhou, China.
