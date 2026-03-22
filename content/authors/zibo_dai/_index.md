@@ -48,6 +48,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/SelfGala
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +64,14 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - expert
+  - Undergraduate Students
+
+          # - Principal Investigator
+          # - PhD Students
+          # - Master Students
+          # - Research Assistants
+          # - Undergraduate Students
+          # - Visitors
 ---
 
 I'm a master soon student at [Zhejiang University](https://www.zju.edu.cn/english/) in Hangzhou, China.
