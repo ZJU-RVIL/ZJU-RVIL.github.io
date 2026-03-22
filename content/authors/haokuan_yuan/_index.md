@@ -34,7 +34,7 @@ social:
     link: 'b23042424@njupt.edu.cn'
   - icon: github
     icon_pack: fab
-    link: 'https://github.com/你的GitHub'
+    link: 'https://github.com/WilbertYuan'
 
 email: ''
 highlight_name: false
